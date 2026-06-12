@@ -2,53 +2,51 @@
   <img src="banner.png" alt="Aleksandr-Ignatenko Banner" width="100%">
 </div>
 
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:2B0000,70:5C0000,100:D4AF37&height=150&section=header&text=Alex%20Ignatenko&fontColor=D4AF37&fontSize=48&fontAlignY=35&desc=Telecom%20%7C%20Carriers%20%7C%20SMS%20%7C%20Voice%20%7C%20Code&descAlignY=60&descSize=18" width="100%">
-
 <div align="center">
 
-<img src="https://github.com/Aleksandr-Ignatenko.png" width="190" height="190" alt="Alex Ignatenko" />
-
-# ⚔️ Alex Ignatenko ⚔️
-
-## 🐺 Carrier Relationship Manager | Telecom Account Manager | A2P SMS | Voice | VoIP | DID
-
-### `A man of routes, traffic, carriers and code`
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Alex%20Ignatenko&fontColor=FFFFFF&fontSize=42&fontAlignY=45&desc=Telecom%20%7C%20Carrier%20Relations%20%7C%20SMS%20%7C%20Voice%20%7C%20Development&descColor=8B949E&descSize=16&descAlignY=72" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Cinzel+Decorative&weight=700&size=32&pause=1000&color=D4AF37&center=true&vCenter=true&width=1000&height=80&lines=Telecom+Account+Manager;Carrier+Relationship+Manager;A2P+SMS+%7C+SMS+Termination;Voice+Termination+%7C+VoIP+%7C+DID+Numbers;IP+Transit+%7C+Hosting+%7C+Connectivity;C%23+%7C+Unity+%7C+Android+Game+Development" alt="Typing SVG" />
+<img src="https://github.com/Aleksandr-Ignatenko.png" width="160" height="160" alt="Alex Ignatenko" style="border-radius: 50%;" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Telecom+Account+Manager;Carrier+Relationship+Manager;A2P+SMS+%7C+SMS+Termination;Voice+Termination+%7C+VoIP+%7C+DID+Numbers;IP+Transit+%7C+Hosting+%7C+Connectivity;C%23+%7C+Unity+%7C+Android+Development" alt="Typing SVG" />
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=Aleksandr-Ignatenko&color=5C0000&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=Aleksandr-Ignatenko&style=for-the-badge&label=Profile%20Views&color=0D1117&labelColor=161B22" alt="Profile Views" />
 
 </div>
+
+<br>
 
 ---
 
 <div align="center">
 
-## ᚱ ᚢ ᚾ ᛖ ᛋ &nbsp; | &nbsp; Contact Scrolls &nbsp; | &nbsp; ᚠ ᛟ ᚱ ᚷ ᛖ
+# Alex Ignatenko
+
+### Telecom Account Manager · Carrier Relationship Manager · A2P SMS · Voice · VoIP · DID
 
 </div>
 
+---
+
+## Connect
+
 <div align="center">
 
-| ⚔️ GitHub | 🐺 Telegram | ✉️ Gmail | 🜃 Instagram | 🛡️ LinkedIn |
+| GitHub | Telegram | Email | Instagram | LinkedIn |
 | --- | --- | --- | --- | --- |
-| [![GitHub](https://img.shields.io/badge/GitHub-Aleksandr--Ignatenko-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=2B0000)](https://github.com/Aleksandr-Ignatenko) | [![Telegram](https://img.shields.io/badge/Telegram-@AlexSMS__URU-0D0D0D?style=for-the-badge&logo=telegram&logoColor=D4AF37&labelColor=2B0000)](https://t.me/AlexSMS_URU) | [![Gmail](https://img.shields.io/badge/Gmail-alex.ignat.1978@gmail.com-0D0D0D?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=2B0000)](mailto:alex.ignat.1978@gmail.com) | [![Instagram](https://img.shields.io/badge/Instagram-@alexsms__uru-0D0D0D?style=for-the-badge&logo=instagram&logoColor=D4AF37&labelColor=2B0000)](https://www.instagram.com/alexsms_uru?igsh=MXRzYW45bGNvdHRoYQ==) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Ignatenko-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=2B0000)](https://www.linkedin.com/in/alex-ignatenko-sms/) |
+| [![GitHub](https://img.shields.io/badge/GitHub-Aleksandr--Ignatenko-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22)](https://github.com/Aleksandr-Ignatenko) | [![Telegram](https://img.shields.io/badge/Telegram-@AlexSMS__URU-0D1117?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=161B22)](https://t.me/AlexSMS_URU) | [![Gmail](https://img.shields.io/badge/Gmail-alex.ignat.1978@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=161B22)](mailto:alex.ignat.1978@gmail.com) | [![Instagram](https://img.shields.io/badge/Instagram-@alexsms__uru-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=161B22)](https://www.instagram.com/alexsms_uru?igsh=MXRzYW45bGNvdHRoYQ==) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Ignatenko-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22)](https://www.linkedin.com/in/alex-ignatenko-sms/) |
 
 </div>
 
 ---
 
-<div align="center">
-
-# 🐺 About Me
-
-</div>
+## About Me
 
 I am a telecom account and carrier relationship manager with strong experience in international telecom, A2P SMS, SMS termination, VoIP, voice termination, DID numbers, IP transit, hosting, dedicated servers, connectivity, colocation, and routing management.
 
@@ -58,53 +56,43 @@ I have practical experience with carrier negotiations, routing, traffic testing,
 
 Alongside telecom, I also have IT and development experience with C#, Unity, Android game development, and personal software projects.
 
-> “Every route has a price. Every partner has a story. Every signal must find its path.”
-
 ---
+
+## Working Stack
+
+### Telecom Products
 
 <div align="center">
 
-# ⚒️ Working Stack
+![A2P SMS](https://img.shields.io/badge/A2P%20SMS-0D1117?style=for-the-badge&labelColor=161B22)
+![SMS Termination](https://img.shields.io/badge/SMS%20Termination-0D1117?style=for-the-badge&labelColor=161B22)
+![VoIP](https://img.shields.io/badge/VoIP-0D1117?style=for-the-badge&labelColor=161B22)
+![Voice Termination](https://img.shields.io/badge/Voice%20Termination-0D1117?style=for-the-badge&labelColor=161B22)
+![DID Numbers](https://img.shields.io/badge/DID%20Numbers-0D1117?style=for-the-badge&labelColor=161B22)
+![IP Transit](https://img.shields.io/badge/IP%20Transit-0D1117?style=for-the-badge&labelColor=161B22)
+![Hosting](https://img.shields.io/badge/Hosting-0D1117?style=for-the-badge&labelColor=161B22)
+![Dedicated Servers](https://img.shields.io/badge/Dedicated%20Servers-0D1117?style=for-the-badge&labelColor=161B22)
+![Connectivity](https://img.shields.io/badge/Connectivity-0D1117?style=for-the-badge&labelColor=161B22)
+![Colocation](https://img.shields.io/badge/Colocation-0D1117?style=for-the-badge&labelColor=161B22)
+![Routing Management](https://img.shields.io/badge/Routing%20Management-0D1117?style=for-the-badge&labelColor=161B22)
 
 </div>
 
-## ⚔️ Telecom Products
+### Platforms and Tools
 
 <div align="center">
 
-![A2P SMS](https://img.shields.io/badge/⚔️%20A2P%20SMS-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
-![SMS Termination](https://img.shields.io/badge/🐺%20SMS%20Termination-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
-![VoIP](https://img.shields.io/badge/🛡️%20VoIP-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
-![Voice Termination](https://img.shields.io/badge/🩸%20Voice%20Termination-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
-![DID Numbers](https://img.shields.io/badge/ᚱ%20DID%20Numbers-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
-![IP Transit](https://img.shields.io/badge/ᚨ%20IP%20Transit-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
-![Hosting](https://img.shields.io/badge/🏰%20Hosting-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
-![Dedicated Servers](https://img.shields.io/badge/⚒️%20Dedicated%20Servers-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
-![Connectivity](https://img.shields.io/badge/🕯️%20Connectivity-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
-![Colocation](https://img.shields.io/badge/🏯%20Colocation-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
-![Routing Management](https://img.shields.io/badge/🧭%20Routing%20Management-2B0000?style=for-the-badge&labelColor=050505&color=5C0000)
+![Alaris](https://img.shields.io/badge/Alaris%20%2F%20Alarislabs-0D1117?style=for-the-badge&labelColor=161B22)
+![Bitrix24](https://img.shields.io/badge/Bitrix24-0D1117?style=for-the-badge&logo=bitrix24&logoColor=FFFFFF&labelColor=161B22)
+![Streamco](https://img.shields.io/badge/Streamco-0D1117?style=for-the-badge&labelColor=161B22)
+![CRM Systems](https://img.shields.io/badge/CRM%20Systems-0D1117?style=for-the-badge&labelColor=161B22)
+![HubSpot Reporting](https://img.shields.io/badge/HubSpot%20Reporting-0D1117?style=for-the-badge&logo=hubspot&logoColor=FFFFFF&labelColor=161B22)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-0D1117?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF&labelColor=161B22)
+![Nextcloud](https://img.shields.io/badge/Nextcloud-0D1117?style=for-the-badge&logo=nextcloud&logoColor=FFFFFF&labelColor=161B22)
 
 </div>
 
----
-
-## 🧰 Platforms and Tools
-
-<div align="center">
-
-![Alaris](https://img.shields.io/badge/Alaris%20%2F%20Alarislabs-0D0D0D?style=for-the-badge&labelColor=2B0000&color=D4AF37)
-![Bitrix24](https://img.shields.io/badge/Bitrix24-0D0D0D?style=for-the-badge&logo=bitrix24&logoColor=D4AF37&labelColor=2B0000&color=D4AF37)
-![Streamco](https://img.shields.io/badge/Streamco-0D0D0D?style=for-the-badge&labelColor=2B0000&color=D4AF37)
-![CRM Systems](https://img.shields.io/badge/CRM%20Systems-0D0D0D?style=for-the-badge&labelColor=2B0000&color=D4AF37)
-![HubSpot Reporting](https://img.shields.io/badge/HubSpot%20Reporting-0D0D0D?style=for-the-badge&logo=hubspot&logoColor=D4AF37&labelColor=2B0000&color=D4AF37)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-0D0D0D?style=for-the-badge&logo=ubuntu&logoColor=D4AF37&labelColor=2B0000&color=D4AF37)
-![Nextcloud](https://img.shields.io/badge/Nextcloud-0D0D0D?style=for-the-badge&logo=nextcloud&logoColor=D4AF37&labelColor=2B0000&color=D4AF37)
-
-</div>
-
----
-
-## 🧙 Development
+### Development
 
 <div align="center">
 
@@ -112,97 +100,85 @@ Alongside telecom, I also have IT and development experience with C#, Unity, And
 
 <br><br>
 
-![C#](https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=csharp&logoColor=D4AF37&labelColor=2B0000)
-![Unity](https://img.shields.io/badge/Unity-0D0D0D?style=for-the-badge&logo=unity&logoColor=D4AF37&labelColor=2B0000)
-![Android Game Development](https://img.shields.io/badge/Android%20Game%20Development-0D0D0D?style=for-the-badge&logo=android&logoColor=D4AF37&labelColor=2B0000)
-![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=D4AF37&labelColor=2B0000)
-![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=2B0000)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=FFFFFF&labelColor=161B22)
+![Unity](https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=161B22)
+![Android](https://img.shields.io/badge/Android%20Development-0D1117?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=161B22)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=FFFFFF&labelColor=161B22)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22)
 
 </div>
 
 ---
 
-<div align="center">
+## Work Experience
 
-# 📜 Work Experience
-
-</div>
-
-## 🏰 IN8INITY — Carrier Relationship Manager  
-### Nov 2024 – Present · 1 year 8 months
+### IN8INITY — Carrier Relationship Manager  
+**Nov 2024 – Present · 1 year 8 months**
 
 Worked with international carriers and partners in voice, SMS, DID numbers, IP transit, hosting, connectivity, and colocation. Built new partnerships, managed carrier relationships, attended telecom conferences, and developed new business opportunities.
 
 ---
 
-## 🛡️ NovaMetro — SMS Account Manager  
-### Oct 2023 – Nov 2024 · 1 year 2 months
+### NovaMetro — SMS Account Manager  
+**Oct 2023 – Nov 2024 · 1 year 2 months**
 
 Worked with Tier 1 carriers, SMS partners, routing, wholesale and premium products. Managed clients, handled commercial disputes, resolved escalated support cases, and supported business growth across Americas, CIS, and Europe departments.
 
 ---
 
-## ⚔️ Next Vision S.R.L. — A2P Account Manager  
-### Apr 2023 – Sep 2023 · 6 months
+### Next Vision S.R.L. — A2P Account Manager  
+**Apr 2023 – Sep 2023 · 6 months**
 
 Managed A2P SMS accounts, negotiated contracts, worked with internal teams, tracked sales performance, and helped build monetization strategy for new and existing products.
 
 ---
 
-## 🐺 RSCom Ltd. — SMS Account Manager  
-### Apr 2015 – Mar 2023 · 8 years
+### RSCom Ltd. — SMS Account Manager  
+**Apr 2015 – Mar 2023 · 8 years**
 
 Worked with SMS termination, account management, partner negotiations, rates, volume discounts, quality monitoring, routing, billing, and finance teams. Represented the company at telecom events and supervised junior sales representatives.
 
 ---
 
-## 🩸 OXNP Telecom — Account Manager  
-### Oct 2014 – Apr 2015 · 7 months
+### OXNP Telecom — Account Manager  
+**Oct 2014 – Apr 2015 · 7 months**
 
 Worked with VoIP companies, voice traffic purchase and sale, route search, traffic testing, trouble ticket analysis, client development, business cases, and partner agreements.
 
 ---
 
-<div align="center">
+## Additional IT / Development Experience
 
-# 🧙 Additional IT / Development Experience
-
-</div>
-
-## GeekBrains — Game Development with Unity  
-### Jan 2018 – Jan 2024
+### GeekBrains — Game Development with Unity  
+**Jan 2018 – Jan 2024**
 
 Studied IT technologies and game development. Worked with C# and Unity.
 
 ---
 
-<div align="center">
-
-# 🗡️ Projects
-
-</div>
+## Projects
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <h2>🏰 STM Balance</h2>
+      <h3>STM Balance</h3>
       <p>Android NFC project for STM transport cards in Montevideo.</p>
       <p>
-        <img src="https://img.shields.io/badge/Android-050505?style=for-the-badge&logo=android&logoColor=D4AF37&labelColor=2B0000">
-        <img src="https://img.shields.io/badge/Kotlin-050505?style=for-the-badge&logo=kotlin&logoColor=D4AF37&labelColor=2B0000">
-        <img src="https://img.shields.io/badge/NFC-050505?style=for-the-badge&labelColor=2B0000&color=5C0000">
+        <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/NFC-0D1117?style=for-the-badge&labelColor=161B22">
       </p>
       <a href="https://github.com/Aleksandr-Ignatenko/stm-balance">View Repository</a>
     </td>
     <td align="center" width="50%">
-      <h2>⚔️ Android Game Projects</h2>
+      <h3>Android Game Projects</h3>
       <p>Game projects developed with C# and Unity, including UFO Saucer Up and Yacht Sharing.</p>
       <p>
-        <img src="https://img.shields.io/badge/C%23-050505?style=for-the-badge&logo=csharp&logoColor=D4AF37&labelColor=2B0000">
-        <img src="https://img.shields.io/badge/Unity-050505?style=for-the-badge&logo=unity&logoColor=D4AF37&labelColor=2B0000">
-        <img src="https://img.shields.io/badge/Android-050505?style=for-the-badge&logo=android&logoColor=D4AF37&labelColor=2B0000">
+        <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=161B22">
       </p>
       <a href="https://github.com/Aleksandr-Ignatenko">View GitHub</a>
     </td>
@@ -213,40 +189,36 @@ Studied IT technologies and game development. Worked with C# and Unity.
 
 ---
 
-<div align="center">
+## GitHub Dashboard
 
-# 📊 GitHub Dashboard
-
-</div>
-
-## 🩸 GitHub Streak
+### GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Aleksandr-Ignatenko&theme=highcontrast&hide_border=true&ring=D4AF37&fire=5C0000&currStreakLabel=D4AF37" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=Aleksandr-Ignatenko&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak">
 
 </div>
 
 ---
 
-## ⚔️ GitHub Activity Graph
+### GitHub Activity Graph
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksandr-Ignatenko&custom_title=Alex%20Ignatenko's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=050505&color=D4AF37&line=5C0000&point=D4AF37&area_color=2B0000&title_color=D4AF37&area=true" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksandr-Ignatenko&custom_title=Alex%20Ignatenko%20GitHub%20Activity&hide_border=true&border_radius=12&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=8B949E&area_color=161B22&title_color=FFFFFF&area=true" alt="GitHub Activity Graph">
 
 </div>
 
 ---
 
-## 🧙 Languages and Repositories
+### Languages and Repositories
 
 <div align="center">
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Ignatenko&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast&title_color=D4AF37&text_color=FFFFFF&bg_color=050505" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Ignatenko&hide=html&hide_border=true&layout=compact&langs_count=8&title_color=FFFFFF&text_color=8B949E&bg_color=0D1117" alt="Top Languages">
     </td>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aleksandr-Ignatenko&theme=github_dark" alt="Repos Per Language">
@@ -261,11 +233,11 @@ Studied IT technologies and game development. Worked with C# and Unity.
 
 ---
 
-## 🐺 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aleksandr-Ignatenko&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&bg_color=050505" alt="Alex Ignatenko GitHub Stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Aleksandr-Ignatenko&hide_border=true&border_radius=12&show_icons=true&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E&bg_color=0D1117" alt="Alex Ignatenko GitHub Stats">
 
 <br><br>
 
@@ -275,7 +247,7 @@ Studied IT technologies and game development. Worked with C# and Unity.
 
 ---
 
-## 🏰 Profile Summary Cards
+### Profile Summary Cards
 
 <div align="center">
 
@@ -294,11 +266,7 @@ Studied IT technologies and game development. Worked with C# and Unity.
 
 ---
 
-<div align="center">
-
-# 📌 Top Repositories
-
-</div>
+## Top Repositories
 
 <div align="center">
 
@@ -306,12 +274,12 @@ Studied IT technologies and game development. Worked with C# and Unity.
   <tr>
     <td>
       <a href="https://github.com/Aleksandr-Ignatenko/stm-balance">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksandr-Ignatenko&repo=stm-balance&theme=highcontrast&hide_border=true&border_radius=15&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&bg_color=050505" alt="STM Balance Repository">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksandr-Ignatenko&repo=stm-balance&hide_border=true&border_radius=12&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E&bg_color=0D1117" alt="STM Balance Repository">
       </a>
     </td>
     <td>
       <a href="https://github.com/Aleksandr-Ignatenko/Aleksandr-Ignatenko">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksandr-Ignatenko&repo=Aleksandr-Ignatenko&theme=highcontrast&hide_border=true&border_radius=15&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&bg_color=050505" alt="Profile README Repository">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aleksandr-Ignatenko&repo=Aleksandr-Ignatenko&hide_border=true&border_radius=12&title_color=FFFFFF&icon_color=FFFFFF&text_color=8B949E&bg_color=0D1117" alt="Profile README Repository">
       </a>
     </td>
   </tr>
@@ -321,16 +289,12 @@ Studied IT technologies and game development. Worked with C# and Unity.
 
 ---
 
-<div align="center">
-
-# 🟩 Contribution Chart
-
-</div>
+## Contribution Chart
 
 <div align="center">
 
 <a href="https://github.com/Aleksandr-Ignatenko">
-  <img src="https://ghchart.rshah.org/5C0000/Aleksandr-Ignatenko" alt="Alex Ignatenko GitHub Contribution Chart">
+  <img src="https://ghchart.rshah.org/0D1117/Aleksandr-Ignatenko" alt="Alex Ignatenko GitHub Contribution Chart">
 </a>
 
 </div>
@@ -338,7 +302,7 @@ Studied IT technologies and game development. Worked with C# and Unity.
 ---
 
 <details>
-  <summary><strong>⚔️ Git Stats Summary</strong></summary>
+  <summary><strong>Git Stats Summary</strong></summary>
 
   <br>
 
@@ -361,13 +325,13 @@ Studied IT technologies and game development. Worked with C# and Unity.
 ---
 
 <details>
-  <summary><strong>🏆 GitHub Profile Trophy</strong></summary>
+  <summary><strong>GitHub Profile Trophy</strong></summary>
 
   <br>
 
   <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Aleksandr-Ignatenko&theme=darkhub&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aleksandr-Ignatenko&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophy">
 
   <br><br>
 
@@ -380,7 +344,7 @@ Studied IT technologies and game development. Worked with C# and Unity.
 ---
 
 <details>
-  <summary><strong>⭐ GitHub Star History</strong></summary>
+  <summary><strong>GitHub Star History</strong></summary>
 
   <br>
 
@@ -396,11 +360,7 @@ Studied IT technologies and game development. Worked with C# and Unity.
 
 ---
 
-<div align="center">
-
-# 👥 Repository Roster
-
-</div>
+## Repository Roster
 
 <div align="center">
 
@@ -418,27 +378,23 @@ Studied IT technologies and game development. Worked with C# and Unity.
 
 ---
 
-<div align="center">
-
-# 🏰 What I Work With
-
-</div>
+## What I Work With
 
 <div align="center">
 
 <table>
   <tr>
     <td align="center" width="33%">
-      <h2>⚔️ Telecom Business</h2>
+      <h3>Telecom Business</h3>
       <p>A2P SMS, SMS termination, VoIP, voice termination, DID numbers, IP transit, hosting, connectivity, and colocation.</p>
     </td>
     <td align="center" width="33%">
-      <h2>🐺 Carrier Relations</h2>
+      <h3>Carrier Relations</h3>
       <p>Partner negotiations, route testing, traffic growth, pricing, quality monitoring, commercial disputes, and long-term cooperation.</p>
     </td>
     <td align="center" width="33%">
-      <h2>🧙 Development</h2>
-      <p>C#, Unity, Android game development, product thinking, and technical problem solving.</p>
+      <h3>Development</h3>
+      <p>C#, Unity, Android development, Unity projects, product thinking, and technical problem solving.</p>
     </td>
   </tr>
 </table>
@@ -449,10 +405,10 @@ Studied IT technologies and game development. Worked with C# and Unity.
 
 <div align="center">
 
-## ⚔️ Open to telecom partnerships, carrier relations, SMS, voice, DID, hosting and connectivity opportunities.
-
-### `The Path is built by those who know the routes.`
+### Open to telecom partnerships, carrier relations, SMS, voice, DID, hosting and connectivity opportunities.
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,35:2B0000,70:5C0000,100:D4AF37&height=130&section=footer" width="100%">
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=footer" />
