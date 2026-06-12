@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="banner.png" alt="Aleksandr-Ignatenko Banner" width="100%">
+</div>
+
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:024B86,100:00D4FF&height=120&section=header" width="100%">
 
 <div align="center">
