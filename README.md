@@ -20,6 +20,18 @@
 
 </div>
 
+## About Me
+
+I am a telecom account and carrier relationship manager with strong experience in international telecom, A2P SMS, SMS termination, VoIP, voice termination, DID numbers, IP transit, hosting, dedicated servers, connectivity, colocation, and routing management.
+
+My work is focused on building long-term business relationships with carriers, aggregators, telecom providers, suppliers, and enterprise clients. I work with commercial teams, technical teams, NOC, billing, finance, and support departments to grow traffic, improve route quality, resolve delivery issues, manage rates, and support business development.
+
+I have practical experience with carrier negotiations, routing, traffic testing, rate management, quality monitoring, escalated support cases, commercial disputes, client development, and partner agreements.
+
+Alongside telecom, I also have IT and development experience with C#, Unity, Android game development, and personal software projects.
+
+---
+
 ---
 
 ## Connect
@@ -34,17 +46,7 @@
 
 ---
 
-## About Me
 
-I am a telecom account and carrier relationship manager with strong experience in international telecom, A2P SMS, SMS termination, VoIP, voice termination, DID numbers, IP transit, hosting, dedicated servers, connectivity, colocation, and routing management.
-
-My work is focused on building long-term business relationships with carriers, aggregators, telecom providers, suppliers, and enterprise clients. I work with commercial teams, technical teams, NOC, billing, finance, and support departments to grow traffic, improve route quality, resolve delivery issues, manage rates, and support business development.
-
-I have practical experience with carrier negotiations, routing, traffic testing, rate management, quality monitoring, escalated support cases, commercial disputes, client development, and partner agreements.
-
-Alongside telecom, I also have IT and development experience with C#, Unity, Android game development, and personal software projects.
-
----
 
 ## Working Stack
 
