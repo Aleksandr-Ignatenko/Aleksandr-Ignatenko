@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="f3.png" alt="Aleksandr-Ignatenko Banner" width="100%">
+  <img src="f4.png" alt="Aleksandr-Ignatenko Banner" width="100%">
 </div>
 
 <br>
