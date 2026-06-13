@@ -1,6 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Alex%20Ignatenko&fontColor=FFFFFF&fontSize=42&fontAlignY=45" />
+  <img src="b2.png" alt="Alex Ignatenko" width="100%">
 </div>
 
 <br>
