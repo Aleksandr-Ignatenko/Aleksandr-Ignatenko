@@ -2,10 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Alex%20Ignatenko&fontColor=FFFFFF&fontSize=42&fontAlignY=45&desc=Telecom%20%7C%20Carrier%20Relations%20%7C%20SMS%20%7C%20Voice%20%7C%20Development&descColor=8B949E&descSize=16&descAlignY=72" />
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Telecom+Account+Manager;Carrier+Relationship+Manager;A2P+SMS+%7C+SMS+Termination;Voice+Termination+%7C+VoIP+%7C+DID+Numbers;IP+Transit+%7C+Hosting+%7C+Connectivity;C%23+%7C+Unity+%7C+Android+Development" alt="Typing SVG" />
-
 </div>
 
 <br>
