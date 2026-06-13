@@ -12,13 +12,15 @@
 
 ## About Me
 
-I am a telecom account and carrier relationship manager with strong experience in international telecom, A2P SMS, SMS termination, VoIP, voice termination, DID numbers, IP transit, hosting, dedicated servers, connectivity, colocation, and routing management.
+I started vibe coding in 2025 as a personal hobby and a way to turn ideas into real working products faster. I am not building projects just for code itself — I like creating useful tools that can solve everyday problems, improve services for people, and make complicated things easier to use.
 
-My work is focused on building long-term business relationships with carriers, aggregators, telecom providers, suppliers, and enterprise clients. I work with commercial teams, technical teams, NOC, billing, finance, and support departments to grow traffic, improve route quality, resolve delivery issues, manage rates, and support business development.
+I work on practical apps, SaaS tools, monitoring systems, testing tools, AI-assisted workflows, and small product ideas that can grow into something bigger. My current interests include mobile apps, public service tools, transport and city services, monitoring systems, testing, analytics, business dashboards, automation, and AI analytics.
 
-I have practical experience with carrier negotiations, routing, traffic testing, rate management, quality monitoring, escalated support cases, commercial disputes, client development, and partner agreements.
+One of my goals is to build simple and useful applications for real people: apps that help users check information faster, monitor important systems, understand data, receive alerts, and make better decisions without needing technical knowledge.
 
-Alongside telecom, I also have IT and development experience with C#, Unity, Android game development, and personal software projects.
+I use AI-assisted development as part of my workflow: planning, prototyping, debugging, improving interfaces, testing ideas, and turning rough concepts into working projects step by step.
+
+For me, vibe coding is a mix of creativity, product thinking, problem solving, and constant learning.
 
 ---
 
