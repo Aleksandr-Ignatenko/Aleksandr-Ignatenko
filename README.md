@@ -1,16 +1,8 @@
 <div align="center">
-  <img src="f3.png" alt="Aleksandr-Ignatenko Banner" width="100%">
-</div>
-
-<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Alex%20Ignatenko&fontColor=FFFFFF&fontSize=42&fontAlignY=45&desc=Telecom%20%7C%20Carrier%20Relations%20%7C%20SMS%20%7C%20Voice%20%7C%20Development&descColor=8B949E&descSize=16&descAlignY=72" />
 
 <br>
-
-<img src="https://github.com/Aleksandr-Ignatenko.png" width="160" height="160" alt="Alex Ignatenko" style="border-radius: 50%;" />
-
-<br><br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Telecom+Account+Manager;Carrier+Relationship+Manager;A2P+SMS+%7C+SMS+Termination;Voice+Termination+%7C+VoIP+%7C+DID+Numbers;IP+Transit+%7C+Hosting+%7C+Connectivity;C%23+%7C+Unity+%7C+Android+Development" alt="Typing SVG" />
 
@@ -18,6 +10,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=Aleksandr-Ignatenko&style=for-the-badge&label=Profile%20Views&color=0D1117&labelColor=161B22" alt="Profile Views" />
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="f3.png" alt="Aleksandr-Ignatenko Banner" width="100%">
 </div>
 
 <br>
