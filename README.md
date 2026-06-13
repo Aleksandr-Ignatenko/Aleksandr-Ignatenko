@@ -10,16 +10,6 @@
 
 <br>
 
----
-
-<div align="center">
-
-# Alex Ignatenko
-
-### Telecom Account Manager · Carrier Relationship Manager · A2P SMS · Voice · VoIP · DID
-
-</div>
-
 ## About Me
 
 I am a telecom account and carrier relationship manager with strong experience in international telecom, A2P SMS, SMS termination, VoIP, voice termination, DID numbers, IP transit, hosting, dedicated servers, connectivity, colocation, and routing management.
@@ -31,6 +21,16 @@ I have practical experience with carrier negotiations, routing, traffic testing,
 Alongside telecom, I also have IT and development experience with C#, Unity, Android game development, and personal software projects.
 
 ---
+
+---
+
+<div align="center">
+
+# Alex Ignatenko
+
+### Telecom Account Manager · Carrier Relationship Manager · A2P SMS · Voice · VoIP · DID
+
+</div>
 
 ---
 
