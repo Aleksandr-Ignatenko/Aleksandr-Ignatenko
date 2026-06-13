@@ -6,10 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=600&size=28&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Telecom+Account+Manager;Carrier+Relationship+Manager;A2P+SMS+%7C+SMS+Termination;Voice+Termination+%7C+VoIP+%7C+DID+Numbers;IP+Transit+%7C+Hosting+%7C+Connectivity;C%23+%7C+Unity+%7C+Android+Development" alt="Typing SVG" />
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Aleksandr-Ignatenko&style=for-the-badge&label=Profile%20Views&color=0D1117&labelColor=161B22" alt="Profile Views" />
-
 </div>
 
 <br>
