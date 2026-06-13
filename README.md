@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=120&section=header&text=Alex%20Ignatenko&fontColor=FFFFFF&fontSize=42&fontAlignY=45&desc=Telecom%20%7C%20Carrier%20Relations%20%7C%20SMS%20%7C%20Voice%20%7C%20Development&descColor=8B949E&descSize=16&descAlignY=72" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=140&section=header&text=Alex%20Ignatenko&fontColor=FFFFFF&fontSize=42&fontAlignY=40" />
 
 </div>
 
