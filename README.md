@@ -2,7 +2,6 @@
   <img src="b1.png" alt="Alex Ignatenko" width="100%">
 </div>
 
-<br>
 
 <div align="center">
   <img src="f4.png" alt="Aleksandr-Ignatenko Banner" width="100%">
