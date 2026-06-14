@@ -14,11 +14,6 @@
   ▪ ABOUT ME
   <img src="k1.gif" alt="Rotating wheel" height="24">
 </h1>
-
-#   ▪ ABOUT ME
-###   ▪ ABOUT ME
-######  ▪ ABOUT ME
-
 🏎️ I started vibe coding in 2025 as a personal hobby and a way to turn ideas into real working products faster. I am not building projects just for code itself — I like creating useful tools that can solve everyday problems, improve services for people, and make complicated things easier to use.
 
 I work on practical apps, SaaS tools, monitoring systems, testing tools, AI-assisted workflows, and small product ideas that can grow into something bigger. My current interests include mobile apps, public service tools, transport and city services, monitoring systems, testing, analytics, business dashboards, automation, and AI analytics.
