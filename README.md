@@ -29,6 +29,42 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 
+# ▪ STACK
+
+## AI-Assisted Workflow
+ChatGPT · Vibe Coding · Prompt Engineering · Prototyping · Debugging · Product Thinking
+
+## Programming & Development
+C# · Kotlin · JavaScript · TypeScript · SQL
+
+## Frontend & UI
+HTML · CSS · React · Next.js · Tailwind CSS
+
+## Backend & Database
+Supabase · PostgreSQL · Auth · RLS · API · SaaS Logic
+
+## Cloud, Hosting & DevOps
+GitHub · GitHub Actions · Vercel · Render · CI/CD
+
+## Testing, Monitoring & Analytics
+Monitoring Systems · Testing Tools · Logs · Alerts · Dashboards · AI Analytics
+
+## Mobile & Android
+Android · Kotlin · NFC · Mobile UI · App Prototyping
+
+## Game Development & 3D
+Unity · C# · Android Games · Blender
+
+## Telecom Domain
+A2P SMS · SMS Termination · VoIP · Voice Termination · DID Numbers · IP Transit · Hosting · Connectivity · Colocation · Routing
+
+## Telecom Platforms & Tools
+Alaris · Horisen · TelQ · Testelium · MediaCore · Streamco · Bitrix24 · HubSpot · CRM Systems
+
+---
+
+
+
 ## Connect
 
 <div align="center">
