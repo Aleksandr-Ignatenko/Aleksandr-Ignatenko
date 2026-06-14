@@ -30,7 +30,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 <table>
   <tr>
-    <td width="260" align="center" valign="top">
+    <td width="220" align="center" valign="top">
       <img src="k1.gif" alt="Rotating wheel" height="260">
     </td>
     <td valign="top">
