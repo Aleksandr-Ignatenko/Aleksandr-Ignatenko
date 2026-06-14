@@ -12,7 +12,7 @@
 
 <h1>
   ▪ ABOUT ME
-  <img src="k1.gif" alt="Rotating wheel" height="38">
+  <img src="k1.gif" alt="Rotating wheel" height="32">
 </h1>
 🏎️
 I started vibe coding in 2025 as a personal hobby and a way to turn ideas into real working products faster. I am not building projects just for code itself — I like creating useful tools that can solve everyday problems, improve services for people, and make complicated things easier to use.
