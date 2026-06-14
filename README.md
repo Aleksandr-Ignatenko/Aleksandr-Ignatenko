@@ -28,10 +28,9 @@ I use AI-assisted development as part of my workflow: planning, prototyping, deb
 For me, vibe coding is a mix of creativity, product thinking, problem solving, and constant learning.
 
 ---
+# ▪ STACK
 
 <img align="left" src="auto2.png" alt="Stack visual" width="160" height="626">
-
-# ▪ STACK
 
 ### AI-Assisted Workflow
 ChatGPT · Vibe Coding · Prompt Engineering · Prototyping · Debugging · Product Thinking
