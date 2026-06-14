@@ -29,7 +29,9 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 
-#  ▪ STACK
+<img align="left" src="auto2.png" alt="Stack visual" width="160" height="626">
+
+# ▪ STACK
 
 ## AI-Assisted Workflow
 ChatGPT · Vibe Coding · Prompt Engineering · Prototyping · Debugging · Product Thinking
@@ -60,6 +62,9 @@ A2P SMS · SMS Termination · VoIP · Voice Termination · DID Numbers · IP Tra
 
 ## Telecom Platforms & Tools
 Alaris · Horisen · TelQ · Testelium · MediaCore · Streamco · Bitrix24 · HubSpot · CRM Systems
+
+<br clear="left"/>
+
 
 ---
 
