@@ -29,10 +29,16 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 
-<h1>
-  ▪ STACK
-  <img src="foni3.png" alt="Stack visual" height="42">
-</h1>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <h1>▪ STACK</h1>
+    </td>
+    <td align="right">
+      <img src="foni3.png" alt="Stack visual" height="48">
+    </td>
+  </tr>
+</table>
 
 ## AI-Assisted Workflow
 ChatGPT · Vibe Coding · Prompt Engineering · Prototyping · Debugging · Product Thinking
