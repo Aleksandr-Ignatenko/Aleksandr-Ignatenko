@@ -24,7 +24,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td colspan="2" valign="top" bgcolor="#ffffff">
       One of my goals is to build simple and useful applications for real people: apps that help users check information faster, monitor important systems, understand data, receive alerts, and make better decisions without needing technical knowledge.
       <br><br>
       I use AI-assisted development as part of my workflow: planning, prototyping, debugging, improving interfaces, testing ideas, and turning rough concepts into working projects step by step.
