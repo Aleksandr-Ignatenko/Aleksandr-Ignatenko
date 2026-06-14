@@ -16,8 +16,8 @@
 </h1>
 
 #   ▪ ABOUT ME
-##   ▪ ABOUT ME
-###  ▪ ABOUT ME
+###   ▪ ABOUT ME
+#######  ▪ ABOUT ME
 
 🏎️ I started vibe coding in 2025 as a personal hobby and a way to turn ideas into real working products faster. I am not building projects just for code itself — I like creating useful tools that can solve everyday problems, improve services for people, and make complicated things easier to use.
 
