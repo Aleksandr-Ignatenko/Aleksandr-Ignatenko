@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="b3.png" alt="Alex Ignatenko" width="100%">
+  <img src="b1.png" alt="Alex Ignatenko" width="100%">
 </div>
 
 <br>
