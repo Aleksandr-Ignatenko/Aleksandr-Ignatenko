@@ -31,7 +31,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 <h1>
   ▪ STACK
-  <img src="foni3.png" alt="Stack visual" height="30">
+  <img src="foni4.png" alt="Stack visual" height="30">
 </h1>
 
 ## AI-Assisted Workflow
