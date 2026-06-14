@@ -57,7 +57,8 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 
-<img align="left" src="k1.gif" alt="Rotating wheel" width="180" height="180" hspace="0">
+<img align="left" src="k1.gif" alt="Rotating wheel" width="180" height="180">
+<img align="left" src="gap.png" alt="" width="24" height="180">
 
 🏎️ I started vibe coding in 2025 as a personal hobby and a way to turn ideas into real working products faster. I am not building projects just for code itself — I like creating useful tools that can solve everyday problems, improve services for people, and make complicated things easier to use.
 
