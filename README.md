@@ -40,18 +40,27 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
       <p>
         I work on practical apps, SaaS tools, monitoring systems, testing tools, AI-assisted workflows, and small product ideas that can grow into something bigger. My current interests include mobile apps, public service tools, transport and city services, monitoring systems, testing, analytics, business dashboards, automation, and AI analytics.
       </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" valign="top">
       <p>
         One of my goals is to build simple and useful applications for real people: apps that help users check information faster, monitor important systems, understand data, receive alerts, and make better decisions without needing technical knowledge.
       </p>
+
       <p>
         I use AI-assisted development as part of my workflow: planning, prototyping, debugging, improving interfaces, testing ideas, and turning rough concepts into working projects step by step.
       </p>
+
       <p>
         For me, vibe coding is a mix of creativity, product thinking, problem solving, and constant learning.
       </p>
     </td>
   </tr>
 </table>
+
+---
 
 ---
 
