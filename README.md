@@ -29,17 +29,6 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 
-
-<div align="center">
-
-# Alex Ignatenko
-
-### Telecom Account Manager · Carrier Relationship Manager · A2P SMS · Voice · VoIP · DID
-
-</div>
-
----
-
 ## Connect
 
 <div align="center">
@@ -106,49 +95,6 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 
-## Work Experience
-
-### IN8INITY — Carrier Relationship Manager  
-**Nov 2024 – Present · 1 year 8 months**
-
-Worked with international carriers and partners in voice, SMS, DID numbers, IP transit, hosting, connectivity, and colocation. Built new partnerships, managed carrier relationships, attended telecom conferences, and developed new business opportunities.
-
----
-
-### NovaMetro — SMS Account Manager  
-**Oct 2023 – Nov 2024 · 1 year 2 months**
-
-Worked with Tier 1 carriers, SMS partners, routing, wholesale and premium products. Managed clients, handled commercial disputes, resolved escalated support cases, and supported business growth across Americas, CIS, and Europe departments.
-
----
-
-### Next Vision S.R.L. — A2P Account Manager  
-**Apr 2023 – Sep 2023 · 6 months**
-
-Managed A2P SMS accounts, negotiated contracts, worked with internal teams, tracked sales performance, and helped build monetization strategy for new and existing products.
-
----
-
-### RSCom Ltd. — SMS Account Manager  
-**Apr 2015 – Mar 2023 · 8 years**
-
-Worked with SMS termination, account management, partner negotiations, rates, volume discounts, quality monitoring, routing, billing, and finance teams. Represented the company at telecom events and supervised junior sales representatives.
-
----
-
-### OXNP Telecom — Account Manager  
-**Oct 2014 – Apr 2015 · 7 months**
-
-Worked with VoIP companies, voice traffic purchase and sale, route search, traffic testing, trouble ticket analysis, client development, business cases, and partner agreements.
-
----
-
-## Additional IT / Development Experience
-
-### GeekBrains — Game Development with Unity  
-**Jan 2018 – Jan 2024**
-
-Studied IT technologies and game development. Worked with C# and Unity.
 
 ---
 
