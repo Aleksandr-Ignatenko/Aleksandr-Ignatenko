@@ -29,7 +29,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 ---
 # ▪ TECH STACK
 
-<img align="left" src="d2.png" alt="Tech Stack Visual" height="640"> <br>
+<img align="left" src="d2.png" alt="Tech Stack Visual" height="680"> <br>
 
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-222222?style=flat-square&logo=openai&logoColor=ffffff" alt="ChatGPT" />
