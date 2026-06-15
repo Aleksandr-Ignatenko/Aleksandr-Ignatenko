@@ -29,8 +29,6 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 ---
 # ▪ TECH STACK
 
-### AI-Assisted Workflow
-
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-222222?style=flat-square&logo=openai&logoColor=ffffff" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Vibe_Coding-222222?style=flat-square&logoColor=ffffff" alt="Vibe Coding" />
