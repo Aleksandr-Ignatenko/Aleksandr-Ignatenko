@@ -27,7 +27,6 @@ I use AI-assisted development as part of my workflow: planning, prototyping, deb
 For me, vibe coding is a mix of creativity, product thinking, problem solving, and constant learning.
 
 ---
-# ▪ STACK
 # ▪ TECH STACK
 
 ### AI-Assisted Workflow
@@ -59,6 +58,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://img.shields.io/badge/React-222222?style=flat-square&logo=react&logoColor=ffffff" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-222222?style=flat-square&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/OpenGraph-222222?style=flat-square&logoColor=ffffff" alt="OpenGraph" />
 </p>
 
 ### Backend & Database
@@ -66,6 +66,8 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-222222?style=flat-square&logo=supabase&logoColor=ffffff" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Neon-222222?style=flat-square&logo=neon&logoColor=ffffff" alt="Neon" />
+  <img src="https://img.shields.io/badge/Aiven-222222?style=flat-square&logo=aiven&logoColor=ffffff" alt="Aiven" />
   <img src="https://img.shields.io/badge/Auth-222222?style=flat-square&logo=auth0&logoColor=ffffff" alt="Auth" />
   <img src="https://img.shields.io/badge/RLS-222222?style=flat-square&logo=postgresql&logoColor=ffffff" alt="RLS" />
   <img src="https://img.shields.io/badge/API-222222?style=flat-square&logo=fastapi&logoColor=ffffff" alt="API" />
@@ -79,6 +81,10 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://img.shields.io/badge/GitHub_Actions-222222?style=flat-square&logo=githubactions&logoColor=ffffff" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Vercel-222222?style=flat-square&logo=vercel&logoColor=ffffff" alt="Vercel" />
   <img src="https://img.shields.io/badge/Render-222222?style=flat-square&logo=render&logoColor=ffffff" alt="Render" />
+  <img src="https://img.shields.io/badge/Netlify-222222?style=flat-square&logo=netlify&logoColor=ffffff" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Railway-222222?style=flat-square&logo=railway&logoColor=ffffff" alt="Railway" />
+  <img src="https://img.shields.io/badge/InfinityFree-222222?style=flat-square&logoColor=ffffff" alt="InfinityFree" />
+  <img src="https://img.shields.io/badge/Cloudflare-222222?style=flat-square&logo=cloudflare&logoColor=ffffff" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square&logo=githubactions&logoColor=ffffff" alt="CI/CD" />
 </p>
 
@@ -86,11 +92,29 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 <p align="left">
   <img src="https://img.shields.io/badge/Monitoring_Systems-222222?style=flat-square&logo=prometheus&logoColor=ffffff" alt="Monitoring Systems" />
+  <img src="https://img.shields.io/badge/UptimeRobot-222222?style=flat-square&logo=uptimerobot&logoColor=ffffff" alt="UptimeRobot" />
   <img src="https://img.shields.io/badge/Testing_Tools-222222?style=flat-square&logo=testinglibrary&logoColor=ffffff" alt="Testing Tools" />
+  <img src="https://img.shields.io/badge/DNS_Check-222222?style=flat-square&logo=cloudflare&logoColor=ffffff" alt="DNS Check" />
   <img src="https://img.shields.io/badge/Logs-222222?style=flat-square&logo=grafana&logoColor=ffffff" alt="Logs" />
   <img src="https://img.shields.io/badge/Alerts-222222?style=flat-square&logo=opsgenie&logoColor=ffffff" alt="Alerts" />
   <img src="https://img.shields.io/badge/Dashboards-222222?style=flat-square&logo=grafana&logoColor=ffffff" alt="Dashboards" />
   <img src="https://img.shields.io/badge/AI_Analytics-222222?style=flat-square&logo=openai&logoColor=ffffff" alt="AI Analytics" />
+  <img src="https://img.shields.io/badge/cron--job.org-222222?style=flat-square&logoColor=ffffff" alt="cron-job.org" />
+</p>
+
+### Payments & Monetization
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Stripe-222222?style=flat-square&logo=stripe&logoColor=ffffff" alt="Stripe" />
+  <img src="https://img.shields.io/badge/Paddle-222222?style=flat-square&logo=paddle&logoColor=ffffff" alt="Paddle" />
+  <img src="https://img.shields.io/badge/NOWPayments-222222?style=flat-square&logoColor=ffffff" alt="NOWPayments" />
+</p>
+
+### Email, Websites & No-code
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Resend-222222?style=flat-square&logo=resend&logoColor=ffffff" alt="Resend" />
+  <img src="https://img.shields.io/badge/Wix-222222?style=flat-square&logo=wix&logoColor=ffffff" alt="Wix" />
 </p>
 
 ### Mobile & Android
