@@ -28,36 +28,118 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 # ▪ STACK
+# ▪ TECH STACK
 
 ### AI-Assisted Workflow
-ChatGPT · Vibe Coding · Prompt Engineering · Prototyping · Debugging · Product Thinking
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ChatGPT-222222?style=flat-square&logo=openai&logoColor=ffffff" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/Vibe_Coding-222222?style=flat-square&logoColor=ffffff" alt="Vibe Coding" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-222222?style=flat-square&logoColor=ffffff" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/Prototyping-222222?style=flat-square&logo=figma&logoColor=ffffff" alt="Prototyping" />
+  <img src="https://img.shields.io/badge/Debugging-222222?style=flat-square&logo=bugcrowd&logoColor=ffffff" alt="Debugging" />
+  <img src="https://img.shields.io/badge/Product_Thinking-222222?style=flat-square&logoColor=ffffff" alt="Product Thinking" />
+</p>
 
 ### Programming & Development
-C# · Kotlin · JavaScript · TypeScript · SQL
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%23-222222?style=flat-square&logo=csharp&logoColor=ffffff" alt="C#" />
+  <img src="https://img.shields.io/badge/Kotlin-222222?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-222222?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/SQL-222222?style=flat-square&logo=postgresql&logoColor=ffffff" alt="SQL" />
+</p>
 
 ### Frontend & UI
-HTML · CSS · React · Next.js · Tailwind CSS
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML-222222?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS-222222?style=flat-square&logo=css3&logoColor=ffffff" alt="CSS" />
+  <img src="https://img.shields.io/badge/React-222222?style=flat-square&logo=react&logoColor=ffffff" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-222222?style=flat-square&logo=nextdotjs&logoColor=ffffff" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-222222?style=flat-square&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" />
+</p>
 
 ### Backend & Database
-Supabase · PostgreSQL · Auth · RLS · API · SaaS Logic
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-222222?style=flat-square&logo=supabase&logoColor=ffffff" alt="Supabase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Auth-222222?style=flat-square&logo=auth0&logoColor=ffffff" alt="Auth" />
+  <img src="https://img.shields.io/badge/RLS-222222?style=flat-square&logo=postgresql&logoColor=ffffff" alt="RLS" />
+  <img src="https://img.shields.io/badge/API-222222?style=flat-square&logo=fastapi&logoColor=ffffff" alt="API" />
+  <img src="https://img.shields.io/badge/SaaS_Logic-222222?style=flat-square&logoColor=ffffff" alt="SaaS Logic" />
+</p>
 
 ### Cloud, Hosting & DevOps
-GitHub · GitHub Actions · Vercel · Render · CI/CD
+
+<p align="left">
+  <img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-222222?style=flat-square&logo=githubactions&logoColor=ffffff" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-222222?style=flat-square&logo=vercel&logoColor=ffffff" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Render-222222?style=flat-square&logo=render&logoColor=ffffff" alt="Render" />
+  <img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square&logo=githubactions&logoColor=ffffff" alt="CI/CD" />
+</p>
 
 ### Testing, Monitoring & Analytics
-Monitoring Systems · Testing Tools · Logs · Alerts · Dashboards · AI Analytics
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Monitoring_Systems-222222?style=flat-square&logo=prometheus&logoColor=ffffff" alt="Monitoring Systems" />
+  <img src="https://img.shields.io/badge/Testing_Tools-222222?style=flat-square&logo=testinglibrary&logoColor=ffffff" alt="Testing Tools" />
+  <img src="https://img.shields.io/badge/Logs-222222?style=flat-square&logo=grafana&logoColor=ffffff" alt="Logs" />
+  <img src="https://img.shields.io/badge/Alerts-222222?style=flat-square&logo=opsgenie&logoColor=ffffff" alt="Alerts" />
+  <img src="https://img.shields.io/badge/Dashboards-222222?style=flat-square&logo=grafana&logoColor=ffffff" alt="Dashboards" />
+  <img src="https://img.shields.io/badge/AI_Analytics-222222?style=flat-square&logo=openai&logoColor=ffffff" alt="AI Analytics" />
+</p>
 
 ### Mobile & Android
-Android · Kotlin · NFC · Mobile UI · App Prototyping
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Android-222222?style=flat-square&logo=android&logoColor=ffffff" alt="Android" />
+  <img src="https://img.shields.io/badge/Kotlin-222222?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/NFC-222222?style=flat-square&logoColor=ffffff" alt="NFC" />
+  <img src="https://img.shields.io/badge/Mobile_UI-222222?style=flat-square&logo=androidstudio&logoColor=ffffff" alt="Mobile UI" />
+  <img src="https://img.shields.io/badge/App_Prototyping-222222?style=flat-square&logo=figma&logoColor=ffffff" alt="App Prototyping" />
+</p>
 
 ### Game Development & 3D
-Unity · C# · Android Games · Blender
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=ffffff" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-222222?style=flat-square&logo=csharp&logoColor=ffffff" alt="C#" />
+  <img src="https://img.shields.io/badge/Android_Games-222222?style=flat-square&logo=android&logoColor=ffffff" alt="Android Games" />
+  <img src="https://img.shields.io/badge/Blender-222222?style=flat-square&logo=blender&logoColor=ffffff" alt="Blender" />
+</p>
 
 ### Telecom Domain
-A2P SMS · SMS Termination · VoIP · Voice Termination · DID Numbers · IP Transit · Hosting · Connectivity · Colocation · Routing
+
+<p align="left">
+  <img src="https://img.shields.io/badge/A2P_SMS-222222?style=flat-square&logoColor=ffffff" alt="A2P SMS" />
+  <img src="https://img.shields.io/badge/SMS_Termination-222222?style=flat-square&logoColor=ffffff" alt="SMS Termination" />
+  <img src="https://img.shields.io/badge/VoIP-222222?style=flat-square&logoColor=ffffff" alt="VoIP" />
+  <img src="https://img.shields.io/badge/Voice_Termination-222222?style=flat-square&logoColor=ffffff" alt="Voice Termination" />
+  <img src="https://img.shields.io/badge/DID_Numbers-222222?style=flat-square&logoColor=ffffff" alt="DID Numbers" />
+  <img src="https://img.shields.io/badge/IP_Transit-222222?style=flat-square&logo=cloudflare&logoColor=ffffff" alt="IP Transit" />
+  <img src="https://img.shields.io/badge/Hosting-222222?style=flat-square&logo=serverless&logoColor=ffffff" alt="Hosting" />
+  <img src="https://img.shields.io/badge/Connectivity-222222?style=flat-square&logo=cisco&logoColor=ffffff" alt="Connectivity" />
+  <img src="https://img.shields.io/badge/Colocation-222222?style=flat-square&logo=databricks&logoColor=ffffff" alt="Colocation" />
+  <img src="https://img.shields.io/badge/Routing-222222?style=flat-square&logo=router&logoColor=ffffff" alt="Routing" />
+</p>
 
 ### Telecom Platforms & Tools
-Alaris · Horisen · TelQ · Testelium · MediaCore · Streamco · Bitrix24 · HubSpot · CRM Systems
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Alaris-222222?style=flat-square&logoColor=ffffff" alt="Alaris" />
+  <img src="https://img.shields.io/badge/Horisen-222222?style=flat-square&logoColor=ffffff" alt="Horisen" />
+  <img src="https://img.shields.io/badge/TelQ-222222?style=flat-square&logoColor=ffffff" alt="TelQ" />
+  <img src="https://img.shields.io/badge/Testelium-222222?style=flat-square&logoColor=ffffff" alt="Testelium" />
+  <img src="https://img.shields.io/badge/MediaCore-222222?style=flat-square&logoColor=ffffff" alt="MediaCore" />
+  <img src="https://img.shields.io/badge/Streamco-222222?style=flat-square&logoColor=ffffff" alt="Streamco" />
+  <img src="https://img.shields.io/badge/Bitrix24-222222?style=flat-square&logo=bitrix24&logoColor=ffffff" alt="Bitrix24" />
+  <img src="https://img.shields.io/badge/HubSpot-222222?style=flat-square&logo=hubspot&logoColor=ffffff" alt="HubSpot" />
+  <img src="https://img.shields.io/badge/CRM_Systems-222222?style=flat-square&logo=salesforce&logoColor=ffffff" alt="CRM Systems" />
+</p>
 
 <br clear="left"/>
 
