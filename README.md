@@ -29,6 +29,9 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 ---
 # ▪ TECH STACK
 
+<img align="left" src="d2.png" alt="Tech Stack Visual" height="760">
+<img align="left" src="gap.png" alt="" width="24" height="760">
+
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-222222?style=flat-square&logo=openai&logoColor=ffffff" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Vibe_Coding-222222?style=flat-square&logoColor=ffffff" alt="Vibe Coding" />
@@ -37,6 +40,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://img.shields.io/badge/Debugging-222222?style=flat-square&logo=bugcrowd&logoColor=ffffff" alt="Debugging" />
   <img src="https://img.shields.io/badge/Product_Thinking-222222?style=flat-square&logoColor=ffffff" alt="Product Thinking" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-222222?style=flat-square&logo=csharp&logoColor=ffffff" alt="C#" />
   <img src="https://img.shields.io/badge/Kotlin-222222?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
@@ -44,6 +48,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://img.shields.io/badge/TypeScript-222222?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/SQL-222222?style=flat-square&logo=postgresql&logoColor=ffffff" alt="SQL" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML-222222?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-222222?style=flat-square&logo=css3&logoColor=ffffff" alt="CSS" />
@@ -52,6 +57,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://img.shields.io/badge/Tailwind_CSS-222222?style=flat-square&logo=tailwindcss&logoColor=ffffff" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/OpenGraph-222222?style=flat-square&logoColor=ffffff" alt="OpenGraph" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Supabase-222222?style=flat-square&logo=supabase&logoColor=ffffff" alt="Supabase" />
   <img src="https://img.shields.io/badge/PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=ffffff" alt="PostgreSQL" />
@@ -62,6 +68,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://img.shields.io/badge/API-222222?style=flat-square&logo=fastapi&logoColor=ffffff" alt="API" />
   <img src="https://img.shields.io/badge/SaaS_Logic-222222?style=flat-square&logoColor=ffffff" alt="SaaS Logic" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/GitHub-222222?style=flat-square&logo=github&logoColor=ffffff" alt="GitHub" />
   <img src="https://img.shields.io/badge/GitHub_Actions-222222?style=flat-square&logo=githubactions&logoColor=ffffff" alt="GitHub Actions" />
@@ -73,6 +80,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://img.shields.io/badge/Cloudflare-222222?style=flat-square&logo=cloudflare&logoColor=ffffff" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/CI%2FCD-222222?style=flat-square&logo=githubactions&logoColor=ffffff" alt="CI/CD" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Monitoring_Systems-222222?style=flat-square&logo=prometheus&logoColor=ffffff" alt="Monitoring Systems" />
   <img src="https://img.shields.io/badge/UptimeRobot-222222?style=flat-square&logo=uptimerobot&logoColor=ffffff" alt="UptimeRobot" />
@@ -84,15 +92,18 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://img.shields.io/badge/AI_Analytics-222222?style=flat-square&logo=openai&logoColor=ffffff" alt="AI Analytics" />
   <img src="https://img.shields.io/badge/cron--job.org-222222?style=flat-square&logoColor=ffffff" alt="cron-job.org" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Stripe-222222?style=flat-square&logo=stripe&logoColor=ffffff" alt="Stripe" />
   <img src="https://img.shields.io/badge/Paddle-222222?style=flat-square&logo=paddle&logoColor=ffffff" alt="Paddle" />
   <img src="https://img.shields.io/badge/NOWPayments-222222?style=flat-square&logoColor=ffffff" alt="NOWPayments" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Resend-222222?style=flat-square&logo=resend&logoColor=ffffff" alt="Resend" />
   <img src="https://img.shields.io/badge/Wix-222222?style=flat-square&logo=wix&logoColor=ffffff" alt="Wix" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Android-222222?style=flat-square&logo=android&logoColor=ffffff" alt="Android" />
   <img src="https://img.shields.io/badge/Kotlin-222222?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
@@ -100,12 +111,14 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://img.shields.io/badge/Mobile_UI-222222?style=flat-square&logo=androidstudio&logoColor=ffffff" alt="Mobile UI" />
   <img src="https://img.shields.io/badge/App_Prototyping-222222?style=flat-square&logo=figma&logoColor=ffffff" alt="App Prototyping" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Unity-222222?style=flat-square&logo=unity&logoColor=ffffff" alt="Unity" />
   <img src="https://img.shields.io/badge/C%23-222222?style=flat-square&logo=csharp&logoColor=ffffff" alt="C#" />
   <img src="https://img.shields.io/badge/Android_Games-222222?style=flat-square&logo=android&logoColor=ffffff" alt="Android Games" />
   <img src="https://img.shields.io/badge/Blender-222222?style=flat-square&logo=blender&logoColor=ffffff" alt="Blender" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/A2P_SMS-222222?style=flat-square&logoColor=ffffff" alt="A2P SMS" />
   <img src="https://img.shields.io/badge/SMS_Termination-222222?style=flat-square&logoColor=ffffff" alt="SMS Termination" />
@@ -118,6 +131,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://img.shields.io/badge/Colocation-222222?style=flat-square&logo=databricks&logoColor=ffffff" alt="Colocation" />
   <img src="https://img.shields.io/badge/Routing-222222?style=flat-square&logo=router&logoColor=ffffff" alt="Routing" />
 </p>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Alaris-222222?style=flat-square&logoColor=ffffff" alt="Alaris" />
   <img src="https://img.shields.io/badge/Horisen-222222?style=flat-square&logoColor=ffffff" alt="Horisen" />
@@ -131,7 +145,6 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 </p>
 
 <br clear="left"/>
-
 
 ---
 
