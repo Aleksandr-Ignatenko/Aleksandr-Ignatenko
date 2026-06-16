@@ -33,6 +33,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 <p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-222222?style=flat-square&logo=openai&logoColor=ffffff" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/ChatGPT-222222?style=flat-square&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/Vibe_Coding-222222?style=flat-square&logoColor=ffffff" alt="Vibe Coding" />
   <img src="https://img.shields.io/badge/Prompt_Engineering-222222?style=flat-square&logoColor=ffffff" alt="Prompt Engineering" />
   <img src="https://img.shields.io/badge/Prototyping-222222?style=flat-square&logo=figma&logoColor=ffffff" alt="Prototyping" />
@@ -42,6 +43,8 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-222222?style=flat-square&logo=csharp&logoColor=ffffff" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-222222?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/C%23-222222?style=flat-square&logo=dotnet&logoColor=white" alt="C#" />
   <img src="https://img.shields.io/badge/Kotlin-222222?style=flat-square&logo=kotlin&logoColor=ffffff" alt="Kotlin" />
   <img src="https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=ffffff" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-222222?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
