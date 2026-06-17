@@ -150,6 +150,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 
 ## Connect
+# ▪ CONTACTS
 
 <div align="center">
 
