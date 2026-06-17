@@ -147,7 +147,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 
-## Projects
+# ▪ PROJECTS
 
 <div align="center">
 
@@ -155,23 +155,37 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <tr>
     <td align="center" width="50%">
       <h3>STM Balance</h3>
-      <p>Android NFC project for STM transport cards in Montevideo.</p>
+      <p>
+        Android NFC application for STM transport cards in Montevideo.  
+        The project is focused on reading STM card data via NFC and building a simple, useful mobile tool for public transport users.
+      </p>
       <p>
         <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=161B22">
         <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Jetpack_Compose-0D1117?style=for-the-badge&logo=jetpackcompose&logoColor=FFFFFF&labelColor=161B22">
         <img src="https://img.shields.io/badge/NFC-0D1117?style=for-the-badge&labelColor=161B22">
+        <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=161B22">
       </p>
-      <a href="https://github.com/Aleksandr-Ignatenko/stm-balance">View Repository</a>
     </td>
     <td align="center" width="50%">
-      <h3>Android Game Projects</h3>
-      <p>Game projects developed with C# and Unity, including UFO Saucer Up and Yacht Sharing.</p>
+      <h3>SaaS Core — Monitoring Systems</h3>
       <p>
-        <img src="https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Unity-0D1117?style=for-the-badge&logo=unity&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=161B22">
+        Web SaaS platform for monitoring, alerts, dashboards, user roles, company accounts, product balances, history logs, and analytics.  
+        The project is designed as a core platform for future monitoring tools and AI-assisted business products.
       </p>
-      <a href="https://github.com/Aleksandr-Ignatenko">View GitHub</a>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Auth_&_RLS-0D1117?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Resend-0D1117?style=for-the-badge&logo=resend&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Monitoring-0D1117?style=for-the-badge&logo=prometheus&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Alerts-0D1117?style=for-the-badge&logo=opsgenie&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Dashboards-0D1117?style=for-the-badge&logo=grafana&logoColor=FFFFFF&labelColor=161B22">
+      </p>
     </td>
   </tr>
 </table>
