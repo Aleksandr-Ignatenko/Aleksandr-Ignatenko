@@ -147,22 +147,6 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 
-
-
-## Connect
-# ▪ CONTACTS
-
-<div align="center">
-
-| GitHub | Telegram | Email | Instagram | LinkedIn |
-| --- | --- | --- | --- | --- |
-| [![GitHub](https://img.shields.io/badge/GitHub-Aleksandr--Ignatenko-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22)](https://github.com/Aleksandr-Ignatenko) | [![Telegram](https://img.shields.io/badge/Telegram-@AlexSMS__URU-0D1117?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=161B22)](https://t.me/AlexSMS_URU) | [![Gmail](https://img.shields.io/badge/Gmail-alex.ignat.1978@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=161B22)](mailto:alex.ignat.1978@gmail.com) | [![Instagram](https://img.shields.io/badge/Instagram-@alexsms__uru-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=161B22)](https://www.instagram.com/alexsms_uru?igsh=MXRzYW45bGNvdHRoYQ==) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Ignatenko-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22)](https://www.linkedin.com/in/alex-ignatenko-sms/) |
-
-</div>
-
-
----
-
 ## Projects
 
 <div align="center">
@@ -419,3 +403,18 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 <br>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=footer" />
+
+---
+
+
+# ▪ CONTACTS
+
+<div align="center">
+
+| GitHub | Telegram | Email | Instagram | LinkedIn |
+| --- | --- | --- | --- | --- |
+| [![GitHub](https://img.shields.io/badge/GitHub-Aleksandr--Ignatenko-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22)](https://github.com/Aleksandr-Ignatenko) | [![Telegram](https://img.shields.io/badge/Telegram-@AlexSMS__URU-0D1117?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=161B22)](https://t.me/AlexSMS_URU) | [![Gmail](https://img.shields.io/badge/Gmail-alex.ignat.1978@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=161B22)](mailto:alex.ignat.1978@gmail.com) | [![Instagram](https://img.shields.io/badge/Instagram-@alexsms__uru-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=161B22)](https://www.instagram.com/alexsms_uru?igsh=MXRzYW45bGNvdHRoYQ==) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Ignatenko-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22)](https://www.linkedin.com/in/alex-ignatenko-sms/) |
+
+</div>
+
+---
