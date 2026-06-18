@@ -153,7 +153,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 <table>
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <h3>STM Balance</h3>
       <p>
         Android NFC application for STM transport cards in Montevideo.  
@@ -167,7 +167,8 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
         <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=161B22">
       </p>
     </td>
-    <td align="center" width="50%">
+
+    <td align="center" valign="top" width="50%">
       <h3>SaaS Core — Monitoring Systems</h3>
       <p>
         Web SaaS platform for monitoring, alerts, dashboards, user roles, company accounts, product balances, history logs, and analytics.  
