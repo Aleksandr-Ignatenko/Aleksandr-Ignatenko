@@ -196,6 +196,59 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ## GitHub Dashboard
 
+## Repository Roster
+
+<div align="center">
+
+<a href="https://github.com/Aleksandr-Ignatenko/Aleksandr-Ignatenko/network/members">
+  <img src="https://reporoster.com/forks/dark/Aleksandr-Ignatenko/Aleksandr-Ignatenko" alt="Forkers Repo Roster">
+</a>
+
+<br><br>
+
+<a href="https://github.com/Aleksandr-Ignatenko/Aleksandr-Ignatenko/stargazers">
+  <img src="https://reporoster.com/stars/dark/Aleksandr-Ignatenko/Aleksandr-Ignatenko" alt="Stargazers Repo Roster">
+</a>
+
+</div>
+
+---
+
+## What I Work With
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Telecom Business</h3>
+      <p>A2P SMS, SMS termination, VoIP, voice termination, DID numbers, IP transit, hosting, connectivity, and colocation.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Carrier Relations</h3>
+      <p>Partner negotiations, route testing, traffic growth, pricing, quality monitoring, commercial disputes, and long-term cooperation.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Development</h3>
+      <p>C#, Unity, Android development, Unity projects, product thinking, and technical problem solving.</p>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+### Open to telecom partnerships, carrier relations, SMS, voice, DID, hosting and connectivity opportunities.
+
+</div>
+
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=80&section=footer" />
+
 ---
 
 
