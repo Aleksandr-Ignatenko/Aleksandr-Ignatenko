@@ -156,36 +156,35 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
     <td align="center" valign="top" width="50%">
       <h3>STM Balance</h3>
       <p>
-        Android NFC application for STM transport cards in Montevideo.  
+        Android NFC application for STM transport cards in Montevideo.<br>
         The project is focused on reading STM card data via NFC and building a simple, useful mobile tool for public transport users.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Jetpack_Compose-0D1117?style=for-the-badge&logo=jetpackcompose&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/NFC-0D1117?style=for-the-badge&labelColor=161B22">
-        <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Android-0D1117?style=for-the-badge&logo=android&logoColor=FFFFFF&labelColor=161B22" alt="Android">
+        <img src="https://img.shields.io/badge/Kotlin-0D1117?style=for-the-badge&logo=kotlin&logoColor=FFFFFF&labelColor=161B22" alt="Kotlin">
+        <img src="https://img.shields.io/badge/Jetpack_Compose-0D1117?style=for-the-badge&logo=jetpackcompose&logoColor=FFFFFF&labelColor=161B22" alt="Jetpack Compose">
+        <img src="https://img.shields.io/badge/NFC-0D1117?style=for-the-badge&labelColor=161B22" alt="NFC">
+        <img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&labelColor=161B22" alt="GitHub Actions">
       </p>
     </td>
-
     <td align="center" valign="top" width="50%">
       <h3>SaaS Core — Monitoring Systems</h3>
       <p>
-        Web SaaS platform for monitoring, alerts, dashboards, user roles, company accounts, product balances, history logs, and analytics.  
+        Web SaaS platform for monitoring, alerts, dashboards, user roles, company accounts, product balances, history logs, and analytics.<br>
         The project is designed as a core platform for future monitoring tools and AI-assisted business products.
       </p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Auth_&_RLS-0D1117?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Resend-0D1117?style=for-the-badge&logo=resend&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Monitoring-0D1117?style=for-the-badge&logo=prometheus&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Alerts-0D1117?style=for-the-badge&logo=opsgenie&logoColor=FFFFFF&labelColor=161B22">
-        <img src="https://img.shields.io/badge/Dashboards-0D1117?style=for-the-badge&logo=grafana&logoColor=FFFFFF&labelColor=161B22">
+        <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF&labelColor=161B22" alt="Next.js">
+        <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=FFFFFF&labelColor=161B22" alt="React">
+        <img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=FFFFFF&labelColor=161B22" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=161B22" alt="Supabase">
+        <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=161B22" alt="PostgreSQL">
+        <img src="https://img.shields.io/badge/Auth_%26_RLS-0D1117?style=for-the-badge&logo=supabase&logoColor=FFFFFF&labelColor=161B22" alt="Auth and RLS">
+        <img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF&labelColor=161B22" alt="Vercel">
+        <img src="https://img.shields.io/badge/Resend-0D1117?style=for-the-badge&logo=resend&logoColor=FFFFFF&labelColor=161B22" alt="Resend">
+        <img src="https://img.shields.io/badge/Monitoring-0D1117?style=for-the-badge&logo=prometheus&logoColor=FFFFFF&labelColor=161B22" alt="Monitoring">
+        <img src="https://img.shields.io/badge/Alerts-0D1117?style=for-the-badge&logo=opsgenie&logoColor=FFFFFF&labelColor=161B22" alt="Alerts">
+        <img src="https://img.shields.io/badge/Dashboards-0D1117?style=for-the-badge&logo=grafana&logoColor=FFFFFF&labelColor=161B22" alt="Dashboards">
       </p>
     </td>
   </tr>
