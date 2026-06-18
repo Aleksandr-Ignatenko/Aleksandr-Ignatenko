@@ -196,15 +196,6 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ## GitHub Dashboard
 
-### GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Aleksandr-Ignatenko&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=8B949E&dates=8B949E" alt="GitHub Streak">
-
-</div>
-
----
 
 ### GitHub Activity Graph
 
