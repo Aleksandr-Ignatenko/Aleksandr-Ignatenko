@@ -147,6 +147,13 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 
+
+# ▪ TECH STACK
+
+<img align="left" src="d2.png" alt="Tech Stack Visual" height="680"> <br>
+
+---
+
 # ▪ PROJECTS
 
 <div align="center">
