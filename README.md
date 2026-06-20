@@ -201,12 +201,12 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
   <img src="https://streak-stats.demolab.com/?user=Aleksandr-Ignatenko&theme=highcontrast&hide_border=true" alt="Alex Ignatenko GitHub Streak" />
 
-<br><br>
+  <br><br>
 
   <table>
     <tr>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Ignatenko&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Alex Ignatenko Top Languages">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Ignatenko&hide_border=true&layout=compact&langs_count=10&theme=highcontrast" alt="Alex Ignatenko Top Languages">
       </td>
       <td align="center" valign="top">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aleksandr-Ignatenko&theme=github_dark" alt="Alex Ignatenko Repositories Per Language">
@@ -222,9 +222,6 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
   <img src="https://github-readme-stats.vercel.app/api?username=Aleksandr-Ignatenko&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Alex Ignatenko GitHub Stats">
 
 </div>
-
----
-
 
 
 ---
