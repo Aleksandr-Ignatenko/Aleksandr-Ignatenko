@@ -228,16 +228,11 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 # ▪ CONTACTS
 
-<img align="left" src="gg2.png" alt="Contacts Visual" height="260">
+<img align="left" src="gg2.png" alt="Contacts Visual">
 
 <p align="left">
   <a href="https://github.com/Aleksandr-Ignatenko">
     <img src="https://img.shields.io/badge/GitHub-Aleksandr--Ignatenko-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22" alt="GitHub">
-  </a>
-  <br><br>
-
-  <a href="https://t.me/AlexSMS_URU">
-    <img src="https://img.shields.io/badge/Telegram-@AlexSMS__URU-0D1117?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=161B22" alt="Telegram">
   </a>
   <br><br>
 
@@ -248,6 +243,11 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
   <a href="https://www.instagram.com/alexsms_uru?igsh=MXRzYW45bGNvdHRoYQ==">
     <img src="https://img.shields.io/badge/Instagram-@alexsms__uru-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=161B22" alt="Instagram">
+  </a>
+  <br><br>
+
+  <a href="https://t.me/AlexSMS_URU">
+    <img src="https://img.shields.io/badge/Telegram-@AlexSMS__URU-0D1117?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=161B22" alt="Telegram">
   </a>
   <br><br>
 
