@@ -228,7 +228,7 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 # ▪ CONTACTS
 
-<img align="left" src="gg2.png" alt="Contacts Visual">
+<img align="left" src="gg2.png" alt="Contacts Visual" height="560">
 
 <p align="left">
   <a href="https://github.com/Aleksandr-Ignatenko">
