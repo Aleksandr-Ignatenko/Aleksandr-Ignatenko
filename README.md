@@ -145,13 +145,6 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 <br clear="left"/>
 
----
-
-# ▪ TECH STACK
-
-<img align="left" src="d1.png" alt="Tech Stack Visual" width="100%"> <br>
-
-<br clear="left"/>
 
 ---
 
@@ -209,6 +202,47 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 <img src="github-metrics.svg" alt="Alex Ignatenko GitHub Metrics Dashboard" width="100%">
 
 </div>
+
+---
+
+# ▪ GIT STATS
+
+<div align="center">
+
+  <img src="https://streak-stats.demolab.com/?user=Aleksandr-Ignatenko&theme=highcontrast&hide_border=true" alt="Alex Ignatenko GitHub Streak" />
+
+<br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleksandr-Ignatenko&custom_title=Alex%20Ignatenko%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFFFFF&line=FFFFFF&point=8B949E&area_color=161B22&title_color=FFFFFF&area=true" alt="Alex Ignatenko GitHub Activity Graph" />
+
+<br><br>
+
+  <table>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleksandr-Ignatenko&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Alex Ignatenko Top Languages">
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aleksandr-Ignatenko&theme=github_dark" alt="Alex Ignatenko Repositories Per Language">
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aleksandr-Ignatenko&theme=github_dark" alt="Alex Ignatenko Most Commit Language">
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Aleksandr-Ignatenko&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="Alex Ignatenko GitHub Stats">
+
+<br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aleksandr-Ignatenko&theme=github_dark" alt="Alex Ignatenko GitHub Profile Details">
+
+</div>
+
+---
+
 
 
 ---
