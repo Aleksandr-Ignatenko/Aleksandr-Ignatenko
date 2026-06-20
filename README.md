@@ -228,12 +228,36 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 # ▪ CONTACTS
 
-<div align="center">
+<img align="left" src="gg1.png" alt="Contacts Visual" height="260">
+<img align="left" src="gap.png" alt="" width="24" height="260">
 
-| GitHub | Telegram | Email | Instagram | LinkedIn |
-| --- | --- | --- | --- | --- |
-| [![GitHub](https://img.shields.io/badge/GitHub-Aleksandr--Ignatenko-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22)](https://github.com/Aleksandr-Ignatenko) | [![Telegram](https://img.shields.io/badge/Telegram-@AlexSMS__URU-0D1117?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=161B22)](https://t.me/AlexSMS_URU) | [![Gmail](https://img.shields.io/badge/Gmail-alex.ignat.1978@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=161B22)](mailto:alex.ignat.1978@gmail.com) | [![Instagram](https://img.shields.io/badge/Instagram-@alexsms__uru-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=161B22)](https://www.instagram.com/alexsms_uru?igsh=MXRzYW45bGNvdHRoYQ==) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alex%20Ignatenko-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22)](https://www.linkedin.com/in/alex-ignatenko-sms/) |
+<p align="left">
+  <a href="https://github.com/Aleksandr-Ignatenko">
+    <img src="https://img.shields.io/badge/GitHub-Aleksandr--Ignatenko-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=161B22" alt="GitHub">
+  </a>
+  <br><br>
 
-</div>
+  <a href="https://t.me/AlexSMS_URU">
+    <img src="https://img.shields.io/badge/Telegram-@AlexSMS__URU-0D1117?style=for-the-badge&logo=telegram&logoColor=FFFFFF&labelColor=161B22" alt="Telegram">
+  </a>
+  <br><br>
+
+  <a href="mailto:alex.ignat.1978@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-alex.ignat.1978@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=161B22" alt="Gmail">
+  </a>
+  <br><br>
+
+  <a href="https://www.instagram.com/alexsms_uru?igsh=MXRzYW45bGNvdHRoYQ==">
+    <img src="https://img.shields.io/badge/Instagram-@alexsms__uru-0D1117?style=for-the-badge&logo=instagram&logoColor=FFFFFF&labelColor=161B22" alt="Instagram">
+  </a>
+  <br><br>
+
+  <a href="https://www.linkedin.com/in/alex-ignatenko-sms/">
+    <img src="https://img.shields.io/badge/LinkedIn-Alex%20Ignatenko-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&labelColor=161B22" alt="LinkedIn">
+  </a>
+</p>
+
+<br clear="left"/>
 
 ---
+
