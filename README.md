@@ -195,16 +195,6 @@ For me, vibe coding is a mix of creativity, product thinking, problem solving, a
 
 ---
 
-# ▪ GITHUB DASHBOARD
-
-<div align="center">
-
-<img src="github-metrics.svg" alt="Alex Ignatenko GitHub Metrics Dashboard" width="100%">
-
-</div>
-
----
-
 # ▪ GIT STATS
 
 <div align="center">
